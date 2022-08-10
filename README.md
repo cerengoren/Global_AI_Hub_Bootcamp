@@ -1,1 +1,3 @@
-# Global_AI_Hub_Projects
+# Global_AI_Projects
+
+Global AI Bootcamp sürecinde yaptığım projeleri içermektedir.
